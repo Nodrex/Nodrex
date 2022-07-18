@@ -3,7 +3,7 @@
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=Nodrex&show_icons=true&theme=radical" />
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nodrex&layout=compact" />
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nodrex&layout=compact&langs_count=4" />
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
